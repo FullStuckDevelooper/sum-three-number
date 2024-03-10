@@ -19,4 +19,5 @@ const num3 = parseFloat(prompt().trim());
 const hasil = tambah(num1, num2, num3);
 
 console.log('Hasil penjumlahan: ' + hasil);
+console.log('berhasil');
 module.exports = tambah;
