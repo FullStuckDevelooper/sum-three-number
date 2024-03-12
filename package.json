@@ -4,7 +4,7 @@
     "prompt-sync": "^4.2.0"
   },
   "name": "sum-three-number",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "sum 3 number",
   "main": "index.js",
   "devDependencies": {},
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/FullStuckDevelooper/sum-three-number"
   },
-  "author": "",
+  "author": "https://github.com/FullStuckDevelooper",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FullStuckDevelooper/sum-three-number/issues"
